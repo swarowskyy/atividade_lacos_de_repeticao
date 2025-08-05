@@ -12,7 +12,7 @@ programa {
     }senao se(numero==0){
     escreva("zero")
   }senao{
-    escrva("Número inválido")
+    escreva("Número inválido")
      }
    }
  }
